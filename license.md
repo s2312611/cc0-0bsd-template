@@ -2,7 +2,7 @@
 
 Unless otherwise indicated by the header or footer of an individual file, this project is dual-licensed under the **Creative Commons Zero v1.0 Universal** (hereafter **CC0 1.0**, see its [legal code](#creative-commons-zero-legal-code) or [website](https://creativecommons.org/publicdomain/zero/1.0)) or **Zero-Clause BSD** (hereafter **0BSD**, see its [legal code](#zero-clause-bsd-legal-code) or [website](https://opensource.org/license/0bsd)) license at your option. Either license grants you the freedom to use, modify, and distribute the software and documentation without restriction; the creator provides this project as-is and disclaims all warranties with regard to this project.
 
-## Creative Commons Zero Legal Code
+## CC0 1.0 Legal Code
 
 ```
 Creative Commons Legal Code
@@ -128,7 +128,7 @@ express Statement of Purpose.
     this CC0 or use of the Work.
 ```
 
-## Zero-Clause BSD Legal Code
+## 0BSD Legal Code
 
 ```
 Zero-Clause BSD
